@@ -61,7 +61,7 @@ pom.xml
 <build>
     <plugins>
         <plugin>
-            <groupdId>com.github.ltennstedt</groupId>
+            <groupId>com.github.ltennstedt</groupId>
             <artifactId>files-maven-plugin</artifactId>
             <version>2</version>
             <executions>
